@@ -1,6 +1,6 @@
 <div align="center">
 
-# StarryZ | Bioinformatics x Source-Grounded AI
+# Starry | Bioinformatics x Source-Grounded AI
 
 I build reproducible bioinformatics workflows, source-grounded content agents, and practical analytics systems.
 
