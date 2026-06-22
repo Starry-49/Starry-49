@@ -13,7 +13,7 @@ I build reproducible bioinformatics workflows, source-grounded content agents, a
 
 ## About
 
-I am **Shi Zhen (StarryZ)**, a Bioinformatics undergraduate at Soochow University, Suzhou Medical College, expected 2027.
+Good Day. I am **Starry**, a Bioinformatics undergraduate at Soochow University, Suzhou Medical College, expected 2027.
 
 My work sits at the intersection of three threads:
 
@@ -74,6 +74,6 @@ I care about systems that are traceable, testable, and useful after the demo end
 
 <div align="center">
 
-**Source-grounded systems. Reproducible analysis. Useful scientific tools.**
+**Do not go gentle into that good night.**
 
 </div>
