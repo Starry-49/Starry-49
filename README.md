@@ -1,8 +1,6 @@
 <div align="center">
 
-# Starry | Bioinformatics x Source-Grounded AI
-
-I build reproducible bioinformatics workflows, source-grounded content agents, and practical analytics systems.
+# Starry | Bioinformatics & DS
 
 [![GitHub](https://img.shields.io/badge/GitHub-Starry--49-181717?style=flat-square&logo=github)](https://github.com/Starry-49)
 [![Bioinformatics](https://img.shields.io/badge/Bioinformatics-single--cell%20%7C%20transcriptomics%20%7C%20genomics-2f6f73?style=flat-square)](#research-and-analysis)
@@ -13,15 +11,13 @@ I build reproducible bioinformatics workflows, source-grounded content agents, a
 
 ## About
 
-Good Day. I am **Starry**, a Bioinformatics undergraduate at Soochow University, Suzhou Medical College, expected 2027.
+Good Day. I am **Starry**, a Bioinformatics undergraduate at Soochow University, expected 2027.
 
 My work sits at the intersection of three threads:
 
-- **Bioinformatics research:** single-cell analysis, transcriptomics, microbial genomics, and clinical genomics workflows.
-- **Source-grounded AI systems:** agents that keep generation tied to registered sources, retrieval evidence, and validation reports.
-- **Decision analytics:** data products that separate real signal from exposure, timing, and subsidy effects.
-
-I care about systems that are traceable, testable, and useful after the demo ends.
+- **Bioinformatics research:** Single-cell analysis, transcriptomics algorithms, microbial genomics, and clinical genomics workflows.
+- **Source-grounded AI systems:** Agents that keep generation tied to registered sources, retrieval evidence, and validation reports.
+- **Decision analytics:** Data products that separate real signal from exposure, timing, and subsidy effects.
 
 ## Research And Analysis
 
