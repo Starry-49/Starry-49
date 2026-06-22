@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 ## About
 
 Good Day. I am **Starry**, a Bioinformatics undergraduate at Soochow University, expected 2027.
