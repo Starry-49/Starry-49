@@ -6,7 +6,7 @@ I build reproducible bioinformatics workflows, source-grounded content agents, a
 
 [![GitHub](https://img.shields.io/badge/GitHub-Starry--49-181717?style=flat-square&logo=github)](https://github.com/Starry-49)
 [![Bioinformatics](https://img.shields.io/badge/Bioinformatics-single--cell%20%7C%20transcriptomics%20%7C%20genomics-2f6f73?style=flat-square)](#research-and-analysis)
-[![AI Agents](https://img.shields.io/badge/AI%20Agents-RAG%20%7C%20LangGraph%20%7C%20validation-31572c?style=flat-square)](#featured-projects)
+[![AI Agents](https://img.shields.io/badge/AI%20Agents-RAG%20%7C%20LangGraph%20%7C%20validation-31572c?style=flat-square)](#toolbox)
 [![Analytics](https://img.shields.io/badge/Analytics-Python%20%7C%20SQL%20%7C%20causal%20thinking-4f5d75?style=flat-square)](#research-and-analysis)
 
 </div>
@@ -24,41 +24,6 @@ My work sits at the intersection of three threads:
 - **Decision analytics:** data products that separate real signal from exposure, timing, and subsidy effects.
 
 I care about systems that are traceable, testable, and useful after the demo ends.
-
-## Featured Projects
-
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">What it does</th>
-    <th align="left">Stack</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Starry-49/source2content-agent"><b>Source2Content Agent</b></a></td>
-    <td>Turns source materials into traceable briefs, slide outlines, article drafts, and source registries.</td>
-    <td>FastAPI, LangGraph, hybrid retrieval, Docker, pytest</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Starry-49/SynQuest"><b>SynQuest</b></a></td>
-    <td>Builds structured question banks from domain knowledge bases with retrieval and duplicate filtering.</td>
-    <td>Python, BM25, TF-IDF, RapidFuzz, semantic retrieval</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Starry-49/image2slides"><b>image2slides</b></a></td>
-    <td>Connects source boundaries, image plans, generation receipts, and editable PowerPoint delivery.</td>
-    <td>PPTX automation, visual QA, content boundaries</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Starry-49/BioIntro"><b>BioIntro</b></a></td>
-    <td>Knowledge-driven question bank for a bioinformatics introduction course.</td>
-    <td>Python, education tooling, retrieval</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Starry-49/Skill-Auditor"><b>Skill-Auditor</b></a></td>
-    <td>Audits local agent skill libraries for prompt poisoning, ad injections, and suspicious referrals.</td>
-    <td>Python, security checks, static analysis</td>
-  </tr>
-</table>
 
 ## Research And Analysis
 
