@@ -6,8 +6,6 @@ I build reproducible bioinformatics workflows, source-grounded content agents, a
 
 [![GitHub](https://img.shields.io/badge/GitHub-Starry--49-181717?style=flat-square&logo=github)](https://github.com/Starry-49)
 [![Bioinformatics](https://img.shields.io/badge/Bioinformatics-single--cell%20%7C%20transcriptomics%20%7C%20genomics-2f6f73?style=flat-square)](#research-and-analysis)
-[![AI Agents](https://img.shields.io/badge/AI%20Agents-RAG%20%7C%20LangGraph%20%7C%20validation-31572c?style=flat-square)](#toolbox)
-[![Analytics](https://img.shields.io/badge/Analytics-Python%20%7C%20SQL%20%7C%20causal%20thinking-4f5d75?style=flat-square)](#research-and-analysis)
 
 </div>
 
