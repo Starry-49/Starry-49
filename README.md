@@ -59,8 +59,12 @@ My work sits at the intersection of three threads:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Starry-49&show_icons=true&hide_title=true&hide_border=true&rank_icon=github" alt="Starry-49 GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starry-49&layout=compact&hide_border=true" alt="Starry-49 top languages" />
+<a href="https://github.com/Starry-49">
+  <img width="49%" src="./assets/github-snapshot/profile.svg" alt="Starry-49 GitHub activity statistics" />
+</a>
+<a href="https://github.com/Starry-49?tab=repositories">
+  <img width="49%" src="./assets/github-snapshot/languages.svg" alt="Starry-49 language distribution" />
+</a>
 
 </div>
 
