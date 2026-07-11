@@ -55,19 +55,6 @@ My work sits at the intersection of three threads:
 - Making bioinformatics analysis workflows easier to audit, reproduce, and explain.
 - Turning noisy operational data into decision-ready evidence and reusable metric cards.
 
-## GitHub Snapshot
-
-<div align="center">
-
-<a href="https://github.com/Starry-49">
-  <img width="49%" src="./assets/github-snapshot/profile.svg" alt="Starry-49 GitHub activity statistics" />
-</a>
-<a href="https://github.com/Starry-49?tab=repositories">
-  <img width="49%" src="./assets/github-snapshot/languages.svg" alt="Starry-49 language distribution" />
-</a>
-
-</div>
-
 ---
 
 <div align="center">
