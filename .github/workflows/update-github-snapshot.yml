@@ -1,0 +1,52 @@
+name: Update GitHub Snapshot
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-github-snapshot.yml"
+
+concurrency:
+  group: github-snapshot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate profile statistics
+        uses: cicirello/user-statistician@v1.22.0
+        with:
+          image-file: assets/github-snapshot/profile.svg
+          include-title: false
+          hide-keys: languages
+          colors: light
+          show-border: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Refresh checkout after generated commit
+        run: git pull --ff-only
+
+      - name: Generate language distribution
+        uses: cicirello/user-statistician@v1.22.0
+        with:
+          image-file: assets/github-snapshot/languages.svg
+          include-title: false
+          hide-keys: general, contributions, repositories
+          max-languages: 8
+          colors: light
+          show-border: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
